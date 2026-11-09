@@ -1,7 +1,10 @@
-# FLOW 8 Remote
+# FLOW 8 Remote – browser control for the Behringer FLOW 8 mixer
 
-A web app (PWA) for controlling the **Behringer FLOW 8** digital mixer from your computer. The whole
-desk fits on one screen like a large studio console: all channels, buses, FX, EQ curves and snapshots.
+A web app (PWA) for controlling the **Behringer FLOW 8**, an 8-input digital mixer with USB audio
+and Bluetooth, from your computer. The whole mixer fits on one screen like a large studio console:
+all channels, buses, FX, EQ curves and snapshots.
+
+> Unofficial project, not affiliated with or endorsed by Behringer / Music Tribe.
 
 **Live version:** https://flow.nemesis.megahosting.cz
 
