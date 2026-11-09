@@ -78,3 +78,6 @@ surface for the FLOW 8 ([live demo](https://spotlightkid.github.io/flow8-web-mid
 - Channel EQ band frequencies in the graph are approximate (MIDI only controls the gain).
 - Without Bluetooth the app doesn't see changes made on the desk. Press *Snapshots › MIDI Dump* on
   the mixer to send the current state to the app over USB.
+
+## License
+[MIT](LICENSE)
