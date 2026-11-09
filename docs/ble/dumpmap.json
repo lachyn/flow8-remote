@@ -1,0 +1,2295 @@
+[
+ {
+  "label": "CH1 level",
+  "midi_ch": 1,
+  "cc": 7,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    198,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH1 pan",
+  "midi_ch": 1,
+  "cc": 10,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    6,
+    78,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH1 mute",
+  "midi_ch": 1,
+  "cc": 5,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    1,
+    129,
+    128
+   ]
+  ]
+ },
+ {
+  "label": "CH1 solo",
+  "midi_ch": 1,
+  "cc": 6,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    1,
+    192,
+    128
+   ]
+  ]
+ },
+ {
+  "label": "CH1 eq low",
+  "midi_ch": 1,
+  "cc": 1,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    7,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH1 eq lomid",
+  "midi_ch": 1,
+  "cc": 2,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    8,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH1 eq himid",
+  "midi_ch": 1,
+  "cc": 3,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    9,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH1 eq hi",
+  "midi_ch": 1,
+  "cc": 4,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    10,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH1 gain",
+  "midi_ch": 1,
+  "cc": 8,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    2,
+    118,
+    143
+   ]
+  ]
+ },
+ {
+  "label": "CH1 lowcut",
+  "midi_ch": 1,
+  "cc": 9,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    5,
+    44,
+    76
+   ]
+  ]
+ },
+ {
+  "label": "CH1 comp",
+  "midi_ch": 1,
+  "cc": 11,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    3,
+    76,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH1 send mon1",
+  "midi_ch": 1,
+  "cc": 14,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    250,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH1 send mon2",
+  "midi_ch": 1,
+  "cc": 15,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    302,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH1 send fx1",
+  "midi_ch": 1,
+  "cc": 16,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    357,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH1 send fx2",
+  "midi_ch": 1,
+  "cc": 17,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    374,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH2 level",
+  "midi_ch": 2,
+  "cc": 7,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    199,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH2 pan",
+  "midi_ch": 2,
+  "cc": 10,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    33,
+    78,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH2 mute",
+  "midi_ch": 2,
+  "cc": 5,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    28,
+    129,
+    128
+   ]
+  ]
+ },
+ {
+  "label": "CH2 solo",
+  "midi_ch": 2,
+  "cc": 6,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    28,
+    192,
+    128
+   ]
+  ]
+ },
+ {
+  "label": "CH2 eq low",
+  "midi_ch": 2,
+  "cc": 1,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    34,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH2 eq lomid",
+  "midi_ch": 2,
+  "cc": 2,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    35,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH2 eq himid",
+  "midi_ch": 2,
+  "cc": 3,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    36,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH2 eq hi",
+  "midi_ch": 2,
+  "cc": 4,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    37,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH2 gain",
+  "midi_ch": 2,
+  "cc": 8,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    29,
+    118,
+    143
+   ]
+  ]
+ },
+ {
+  "label": "CH2 lowcut",
+  "midi_ch": 2,
+  "cc": 9,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    32,
+    44,
+    76
+   ]
+  ]
+ },
+ {
+  "label": "CH2 comp",
+  "midi_ch": 2,
+  "cc": 11,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    30,
+    76,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH2 send mon1",
+  "midi_ch": 2,
+  "cc": 14,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    251,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH2 send mon2",
+  "midi_ch": 2,
+  "cc": 15,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    303,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH2 send fx1",
+  "midi_ch": 2,
+  "cc": 16,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    358,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH2 send fx2",
+  "midi_ch": 2,
+  "cc": 17,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    375,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH3 level",
+  "midi_ch": 3,
+  "cc": 7,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    200,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH3 pan",
+  "midi_ch": 3,
+  "cc": 10,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    60,
+    78,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH3 mute",
+  "midi_ch": 3,
+  "cc": 5,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    55,
+    129,
+    128
+   ]
+  ]
+ },
+ {
+  "label": "CH3 solo",
+  "midi_ch": 3,
+  "cc": 6,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    55,
+    192,
+    128
+   ]
+  ]
+ },
+ {
+  "label": "CH3 eq low",
+  "midi_ch": 3,
+  "cc": 1,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    61,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH3 eq lomid",
+  "midi_ch": 3,
+  "cc": 2,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    62,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH3 eq himid",
+  "midi_ch": 3,
+  "cc": 3,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    63,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH3 eq hi",
+  "midi_ch": 3,
+  "cc": 4,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    64,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH3 gain",
+  "midi_ch": 3,
+  "cc": 8,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    56,
+    118,
+    143
+   ]
+  ]
+ },
+ {
+  "label": "CH3 lowcut",
+  "midi_ch": 3,
+  "cc": 9,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    59,
+    44,
+    76
+   ]
+  ]
+ },
+ {
+  "label": "CH3 comp",
+  "midi_ch": 3,
+  "cc": 11,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    57,
+    76,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH3 send mon1",
+  "midi_ch": 3,
+  "cc": 14,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    252,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH3 send mon2",
+  "midi_ch": 3,
+  "cc": 15,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    304,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH3 send fx1",
+  "midi_ch": 3,
+  "cc": 16,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    359,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH3 send fx2",
+  "midi_ch": 3,
+  "cc": 17,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    376,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH4 level",
+  "midi_ch": 4,
+  "cc": 7,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    201,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH4 pan",
+  "midi_ch": 4,
+  "cc": 10,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    87,
+    78,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH4 mute",
+  "midi_ch": 4,
+  "cc": 5,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    82,
+    129,
+    128
+   ]
+  ]
+ },
+ {
+  "label": "CH4 solo",
+  "midi_ch": 4,
+  "cc": 6,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    82,
+    192,
+    128
+   ]
+  ]
+ },
+ {
+  "label": "CH4 eq low",
+  "midi_ch": 4,
+  "cc": 1,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    88,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH4 eq lomid",
+  "midi_ch": 4,
+  "cc": 2,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    89,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH4 eq himid",
+  "midi_ch": 4,
+  "cc": 3,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    90,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH4 eq hi",
+  "midi_ch": 4,
+  "cc": 4,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    91,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH4 gain",
+  "midi_ch": 4,
+  "cc": 8,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    83,
+    118,
+    143
+   ]
+  ]
+ },
+ {
+  "label": "CH4 lowcut",
+  "midi_ch": 4,
+  "cc": 9,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    86,
+    44,
+    76
+   ]
+  ]
+ },
+ {
+  "label": "CH4 comp",
+  "midi_ch": 4,
+  "cc": 11,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    84,
+    76,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH4 send mon1",
+  "midi_ch": 4,
+  "cc": 14,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    253,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH4 send mon2",
+  "midi_ch": 4,
+  "cc": 15,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    305,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH4 send fx1",
+  "midi_ch": 4,
+  "cc": 16,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    360,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH4 send fx2",
+  "midi_ch": 4,
+  "cc": 17,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    377,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH5/6 level",
+  "midi_ch": 5,
+  "cc": 7,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    202,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH5/6 pan",
+  "midi_ch": 5,
+  "cc": 10,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    114,
+    78,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH5/6 mute",
+  "midi_ch": 5,
+  "cc": 5,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    109,
+    177,
+    176
+   ]
+  ]
+ },
+ {
+  "label": "CH5/6 solo",
+  "midi_ch": 5,
+  "cc": 6,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    109,
+    240,
+    176
+   ]
+  ]
+ },
+ {
+  "label": "CH5/6 eq low",
+  "midi_ch": 5,
+  "cc": 1,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    115,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH5/6 eq lomid",
+  "midi_ch": 5,
+  "cc": 2,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    116,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH5/6 eq himid",
+  "midi_ch": 5,
+  "cc": 3,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    117,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH5/6 eq hi",
+  "midi_ch": 5,
+  "cc": 4,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    118,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH5/6 gain",
+  "midi_ch": 5,
+  "cc": 8,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    110,
+    118,
+    143
+   ]
+  ]
+ },
+ {
+  "label": "CH5/6 lowcut",
+  "midi_ch": 5,
+  "cc": 9,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    113,
+    44,
+    76
+   ]
+  ]
+ },
+ {
+  "label": "CH5/6 comp",
+  "midi_ch": 5,
+  "cc": 11,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    111,
+    76,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH5/6 send mon1",
+  "midi_ch": 5,
+  "cc": 14,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    254,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH5/6 send mon2",
+  "midi_ch": 5,
+  "cc": 15,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    306,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH5/6 send fx1",
+  "midi_ch": 5,
+  "cc": 16,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    361,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH5/6 send fx2",
+  "midi_ch": 5,
+  "cc": 17,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    378,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH7/8 level",
+  "midi_ch": 6,
+  "cc": 7,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    203,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH7/8 pan",
+  "midi_ch": 6,
+  "cc": 10,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    141,
+    78,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH7/8 mute",
+  "midi_ch": 6,
+  "cc": 5,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    136,
+    177,
+    176
+   ]
+  ]
+ },
+ {
+  "label": "CH7/8 solo",
+  "midi_ch": 6,
+  "cc": 6,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    136,
+    240,
+    176
+   ]
+  ]
+ },
+ {
+  "label": "CH7/8 eq low",
+  "midi_ch": 6,
+  "cc": 1,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    142,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH7/8 eq lomid",
+  "midi_ch": 6,
+  "cc": 2,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    143,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH7/8 eq himid",
+  "midi_ch": 6,
+  "cc": 3,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    144,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH7/8 eq hi",
+  "midi_ch": 6,
+  "cc": 4,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    145,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH7/8 gain",
+  "midi_ch": 6,
+  "cc": 8,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    137,
+    118,
+    143
+   ]
+  ]
+ },
+ {
+  "label": "CH7/8 lowcut",
+  "midi_ch": 6,
+  "cc": 9,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    140,
+    44,
+    76
+   ]
+  ]
+ },
+ {
+  "label": "CH7/8 comp",
+  "midi_ch": 6,
+  "cc": 11,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    138,
+    76,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "CH7/8 send mon1",
+  "midi_ch": 6,
+  "cc": 14,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    255,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH7/8 send mon2",
+  "midi_ch": 6,
+  "cc": 15,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    307,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH7/8 send fx1",
+  "midi_ch": 6,
+  "cc": 16,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    362,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "CH7/8 send fx2",
+  "midi_ch": 6,
+  "cc": 17,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    379,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "USB/BT level",
+  "midi_ch": 7,
+  "cc": 7,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    204,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "USB/BT pan",
+  "midi_ch": 7,
+  "cc": 10,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    172,
+    78,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "USB/BT mute",
+  "midi_ch": 7,
+  "cc": 5,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    167,
+    129,
+    128
+   ]
+  ]
+ },
+ {
+  "label": "USB/BT solo",
+  "midi_ch": 7,
+  "cc": 6,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    167,
+    192,
+    128
+   ]
+  ]
+ },
+ {
+  "label": "USB/BT eq low",
+  "midi_ch": 7,
+  "cc": 1,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    173,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "USB/BT eq lomid",
+  "midi_ch": 7,
+  "cc": 2,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    174,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "USB/BT eq himid",
+  "midi_ch": 7,
+  "cc": 3,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    175,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "USB/BT eq hi",
+  "midi_ch": 7,
+  "cc": 4,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    176,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "USB/BT send mon1",
+  "midi_ch": 7,
+  "cc": 14,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    256,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "USB/BT send mon2",
+  "midi_ch": 7,
+  "cc": 15,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    308,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "USB/BT send fx1",
+  "midi_ch": 7,
+  "cc": 16,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    363,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "USB/BT send fx2",
+  "midi_ch": 7,
+  "cc": 17,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    380,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "MAIN level",
+  "midi_ch": 8,
+  "cc": 7,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    195,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "MAIN balance",
+  "midi_ch": 8,
+  "cc": 10,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    196,
+    58,
+    98
+   ]
+  ]
+ },
+ {
+  "label": "MAIN limiter",
+  "midi_ch": 8,
+  "cc": 8,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    197,
+    74,
+    84
+   ]
+  ]
+ },
+ {
+  "label": "MAIN geq1",
+  "midi_ch": 8,
+  "cc": 11,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    205,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MAIN geq2",
+  "midi_ch": 8,
+  "cc": 12,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    206,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MAIN geq3",
+  "midi_ch": 8,
+  "cc": 13,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    207,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MAIN geq4",
+  "midi_ch": 8,
+  "cc": 14,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    208,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MAIN geq5",
+  "midi_ch": 8,
+  "cc": 15,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    209,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MAIN geq6",
+  "midi_ch": 8,
+  "cc": 16,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    210,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MAIN geq7",
+  "midi_ch": 8,
+  "cc": 17,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    211,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MAIN geq8",
+  "midi_ch": 8,
+  "cc": 18,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    212,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MAIN geq9",
+  "midi_ch": 8,
+  "cc": 19,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    213,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON1 level",
+  "midi_ch": 9,
+  "cc": 7,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    247,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "MON1 limiter",
+  "midi_ch": 9,
+  "cc": 8,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    249,
+    74,
+    84
+   ]
+  ]
+ },
+ {
+  "label": "MON1 geq1",
+  "midi_ch": 9,
+  "cc": 11,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    257,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON1 geq2",
+  "midi_ch": 9,
+  "cc": 12,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    258,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON1 geq3",
+  "midi_ch": 9,
+  "cc": 13,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    259,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON1 geq4",
+  "midi_ch": 9,
+  "cc": 14,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    260,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON1 geq5",
+  "midi_ch": 9,
+  "cc": 15,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    261,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON1 geq6",
+  "midi_ch": 9,
+  "cc": 16,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    262,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON1 geq7",
+  "midi_ch": 9,
+  "cc": 17,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    263,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON1 geq8",
+  "midi_ch": 9,
+  "cc": 18,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    264,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON1 geq9",
+  "midi_ch": 9,
+  "cc": 19,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    265,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON2 level",
+  "midi_ch": 10,
+  "cc": 7,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    299,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "MON2 limiter",
+  "midi_ch": 10,
+  "cc": 8,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    301,
+    74,
+    84
+   ]
+  ]
+ },
+ {
+  "label": "MON2 geq1",
+  "midi_ch": 10,
+  "cc": 11,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    309,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON2 geq2",
+  "midi_ch": 10,
+  "cc": 12,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    310,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON2 geq3",
+  "midi_ch": 10,
+  "cc": 13,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    311,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON2 geq4",
+  "midi_ch": 10,
+  "cc": 14,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    312,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON2 geq5",
+  "midi_ch": 10,
+  "cc": 15,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    313,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON2 geq6",
+  "midi_ch": 10,
+  "cc": 16,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    314,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON2 geq7",
+  "midi_ch": 10,
+  "cc": 17,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    315,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON2 geq8",
+  "midi_ch": 10,
+  "cc": 18,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    316,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "MON2 geq9",
+  "midi_ch": 10,
+  "cc": 19,
+  "sent": [
+   40,
+   64
+  ],
+  "diff": [
+   [
+    317,
+    79,
+    127
+   ]
+  ]
+ },
+ {
+  "label": "FX1 bus level",
+  "midi_ch": 11,
+  "cc": 7,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    351,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "FX2 bus level",
+  "midi_ch": 12,
+  "cc": 7,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    368,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "FX1 param1",
+  "midi_ch": 14,
+  "cc": 1,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    353,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "FX1 param2",
+  "midi_ch": 14,
+  "cc": 2,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    354,
+    1,
+    0
+   ]
+  ]
+ },
+ {
+  "label": "FX2 param1",
+  "midi_ch": 15,
+  "cc": 1,
+  "sent": [
+   30,
+   50
+  ],
+  "diff": [
+   [
+    370,
+    30,
+    50
+   ]
+  ]
+ },
+ {
+  "label": "FX2 param2",
+  "midi_ch": 15,
+  "cc": 2,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    371,
+    1,
+    0
+   ]
+  ]
+ },
+ {
+  "label": "FX mute",
+  "midi_ch": 16,
+  "cc": 1,
+  "sent": [
+   127,
+   0
+  ],
+  "diff": [
+   [
+    350,
+    3,
+    2
+   ],
+   [
+    367,
+    3,
+    2
+   ]
+  ]
+ }
+]
